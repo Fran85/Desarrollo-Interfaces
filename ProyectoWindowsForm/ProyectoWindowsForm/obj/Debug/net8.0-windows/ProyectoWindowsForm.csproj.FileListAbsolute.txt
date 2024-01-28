@@ -1,0 +1,16 @@
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\bin\Debug\net8.0-windows\ProyectoWindowsForm.exe
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\bin\Debug\net8.0-windows\ProyectoWindowsForm.deps.json
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\bin\Debug\net8.0-windows\ProyectoWindowsForm.runtimeconfig.json
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\bin\Debug\net8.0-windows\ProyectoWindowsForm.dll
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\bin\Debug\net8.0-windows\ProyectoWindowsForm.pdb
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\ProyectoWindowsForm.Form1.resources
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\ProyectoWindowsForm.csproj.GenerateResource.cache
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\ProyectoWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\ProyectoWindowsForm.AssemblyInfoInputs.cache
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\ProyectoWindowsForm.AssemblyInfo.cs
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\ProyectoWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\ProyectoWindowsForm.dll
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\refint\ProyectoWindowsForm.dll
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\ProyectoWindowsForm.pdb
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\ProyectoWindowsForm.genruntimeconfig.cache
+C:\Users\Fran\source\repos\ProyectoWindowsForm\ProyectoWindowsForm\obj\Debug\net8.0-windows\ref\ProyectoWindowsForm.dll
